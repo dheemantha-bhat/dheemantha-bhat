@@ -37,10 +37,10 @@ I defended my master thesis on **Fuzzy Name Matching** on Aug '23.  You can read
 ## 🛠 My Projects
 
 
-- **Scoring suggestions for student answers using LLMs** - Automatic grading of open ended questions to assist evaluators
+- **[Scoring suggestions for student answers using LLMs](https://github.com/dheemantha-bhat/Open-ended-questions-Scoring-Suggestions)** - Automatic grading of open ended questions to assist evaluators
 - **[Colorisation with Autoencoders](https://github.com/dheemantha-bhat/Colorisation-with-Conv-Autoencoders)** - A convolutional autoencoder is used to colorise grayscale images.
 - **[Classification of MEG data](https://github.com/dheemantha-bhat/Deep-learning-projects)** - Classification of mental state of the subject using MEG scans using CNNs.
-- **[Weather Prediction using GANs](https://github.com/dheemantha-bhat/Deep-leaning-projects)** - Used generative adversarial neural networks(GANs) for nowcasting. 
+- **[Weather Prediction using GANs](https://github.com/dheemantha-bhat/GAN-Nowcasting)** - Used generative adversarial neural networks(GANs) for nowcasting. 
 - **[Customer propensity prediction](https://github.com/dheemantha-bhat/Caravan-insurance-propensity-prediction)** - Experiments with different classification models to predict the propensity
 of a customer to buy a caravan insurance.
 - **Recommender System** - Prediction of next purchase of a customer based on customer behaviour over 7 quarters.
