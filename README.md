@@ -21,7 +21,7 @@
 
 ---
 ## About Me
-- 🔭 I am recent graduate in Data Science from Maastricht University, Netherlands
+- 🔭 I am a recent graduate in Data Science from Maastricht University, Netherlands
 - 🚀 My interests lie in Information Retrieval, Deep Learning and NLP
 - ⚡ I am actively looking for job opportunities
 - 👯 I’m looking to collaborate on cool projects
