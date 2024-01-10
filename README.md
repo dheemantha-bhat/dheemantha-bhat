@@ -61,7 +61,7 @@ More coming soon...
 ---
 
 ## 💪 Currently working on
-- **[Character journey tracker](https://github.com/dheemantha-bhat/Character-Timeline)** project and Open-Source  :)
+- **[Run-Now](https://github.com/dheemantha-bhat/Run-NOW)** project and Open-Source  :)
 
 ---
 
