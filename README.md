@@ -8,7 +8,7 @@
 
 
 
-### My Resume: <a href="https://drive.google.com/file/d/1XiiRGX3bhtz78qHNnMoFjXgh2LU8uLQj/view?usp=sharing" target="_blank">Link</a>
+### My Resume: <a href="https://drive.google.com/file/d/11CQjIslFDVpUarKvnmCk4VyXO6uZzEP3/view?usp=sharing" target="_blank">Link</a>
 
 ---
 ## Contact Me
